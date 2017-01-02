@@ -1,3 +1,3 @@
 # hello-world
 
-* good example *
+
